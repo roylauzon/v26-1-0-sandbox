@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "public",
+    "name": "customers_id_seq",
+    "type": "SEQUENCE"
+  }
+]
